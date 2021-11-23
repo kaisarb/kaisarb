@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kaisarb
+- 👋 Hi, I’m Kaisar
 - 👀 I’m interested in Java programming and Cetrification
 - 🌱 I’m currently learning Java and Spring Boot
 - 💞️ I’m looking to collaborate on Java projects
-- 📫 How to reach me ...
+- 📫 How to reach me kaisarb@gmail.com
 
 <!---
 kaisarb/kaisarb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
