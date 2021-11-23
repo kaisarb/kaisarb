@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kaisarb
 - 👀 I’m interested in Java programming and Cetrification
 - 🌱 I’m currently learning Java and Spring Boot
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Java projects
 - 📫 How to reach me ...
 
 <!---
