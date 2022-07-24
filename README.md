@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kaisar
-- 👀 I’m interested in Java programming and Cetrification
-- 🌱 I’m currently learning Java and Spring Boot
+- 👀 I’m interested in Java Backend and Spring programming 
 - 💞️ I’m looking to collaborate on Java projects
 - 📫 How to reach me kaisarb@gmail.com
 
